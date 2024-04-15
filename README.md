@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ro468
 - 👀 I’m interested in AI 
-- 🌱 I’m currently building models that translate data points into business insights
+
 
 
 <!---
