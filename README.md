@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ro468
-- 👀 I’m interested in AI 
+- 👀 I’m interested in AI, NLP and Data Analysis
 
 
 
