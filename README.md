@@ -1,5 +1,5 @@
 👋 Hi, I'm Rohini!  
-I'm a passionate Data Scientist and AI/ML enthusiast with a strong focus on Natural Language Processing (NLP) and Machine Learning (ML). I’m currently pursuing a Master’s in Data Science and exploring cutting-edge research in Retrieval-Augmented Generation (RAG) models. My journey into AI started during my time at Apple, where I developed a keen interest in NLP, which eventually led me to delve deeper into the world of data science and advanced machine learning techniques.  
+I'm a passionate Data Scientist and AI/ML enthusiast with a strong focus on Natural Language Processing (NLP) and Machine Learning (ML). I’m currently pursuing a Master’s in Data Science. My journey into AI started during my time at Apple, where I developed a keen interest in NLP, which eventually led me to delve deeper into the world of data science and advanced machine learning techniques.  
 
 🚀 What I’m Working On:  
 NLP Projects: From building sentiment analysis models to experimenting with RAG systems, I love tackling complex problems in NLP.  
