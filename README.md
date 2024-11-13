@@ -4,7 +4,7 @@ I'm a passionate Data Scientist and Data Analyst with a strong foundation in AI/
 🚀 What I’m Working On:
 
 NLP Projects: Developing advanced sentiment analysis models, RAG-based Q&A systems, and experimenting with large language models (LLMs) for enhanced data processing and insights extraction.  
-Data Analytics Projects: Working on projects that involve data cleaning, exploratory data analysis (EDA), data visualization, and predictive modeling, like my work analyzing medical costs and Airbnb listings.  
+Data Analytics Projects: Working on projects that involve data cleaning, exploratory data analysis (EDA), data visualization, and predictive modeling, like my work analyzing US doctor database, medical costs and Airbnb listings.  
 AI & ML: Applying machine learning techniques such as classification, clustering, and neural networks to build models that predict trends and optimize processes across multiple domains.  
 
 🌱 What I’m Learning:  
