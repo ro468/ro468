@@ -1,23 +1,14 @@
 👋 Hi, I'm Rohini!
-I'm a passionate Data Scientist and Data Analyst with a strong foundation in AI/ML and Natural Language Processing (NLP). With over 5 years of experience at Apple and Amazon, I’ve worked on large-scale data collection, AI model optimization, and data analysis to drive impactful decisions. Currently, I'm pursuing a Master’s in Data Science to deepen my knowledge and contribute to data-driven solutions in innovative ways.  
+I'm a passionate Data Scientist and Data Analyst with a strong foundation in Data Analysis, AI/ML and Natural Language Processing (NLP). With over 6 years of experience at Apple and Amazon, I’ve worked on large-scale data collection, AI model optimization, and data analysis to drive impactful decisions. Currently, I'm pursuing a Master’s in Data Science to deepen my knowledge and contribute to data-driven solutions in innovative ways.  
 
-🚀 What I’m Working On:
-
-NLP Projects: Developing advanced sentiment analysis models, RAG-based Q&A systems, and experimenting with large language models (LLMs) for enhanced data processing and insights extraction.  
-Data Analytics Projects: Working on projects that involve data cleaning, exploratory data analysis (EDA), data visualization, and predictive modeling, like my work analyzing US doctor database, medical costs and Airbnb listings.  
-AI & ML: Applying machine learning techniques such as classification, clustering, and neural networks to build models that predict trends and optimize processes across multiple domains.  
-
-🌱 What I’m Learning:  
-
-Generative AI: Delving deeper into generative models and their applications in NLP and beyond.  
-Prompt Engineering: Sharpening my skills in designing effective prompts for LLMs and other AI models to enhance their output.  
-Data Engineering: Expanding my knowledge in big data technologies like PySpark and Cassandra, and improving my expertise in data pipelines and ETL processes.  
 
 🛠️ Tech Stack:  
 
-Languages: Python, SQL, R, JavaScript  
-Tools & Libraries: PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, Pandas, NumPy, Matplotlib, Tableau, Power BI  
-Platforms: AWS, Google Cloud, Docker, GitHub, Microsoft Office Suite  
+Languages: Python, SQL, Linux, R.
+AI/ML: TensorFlow, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, NLP, Model Evaluation, Feature Engineering.
+Data Analysis: Tableau, Power BI, Data Cleaning, Wrangling, Exploration, Visualization, Statistical Analysis.
+Data Engineering: PySpark, Databricks, ETL Pipelines, Data Warehousing.
+Tools: AWS (S3, EC2, RDS), Docker, Git, Microsoft Office Suite, Jupyter Notebook, SQL IDEs (MySQL Workbench, DBeaver).
 
 🌟 Professional Experience Highlights:  
 
