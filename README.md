@@ -4,15 +4,15 @@ I'm a passionate Data Scientist and Data Analyst with a strong foundation in Dat
 
 🛠️ Tech Stack:  
 
-Languages: Python, SQL, Bash, R.
-AI/ML: LLMs, TensorFlow, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, NLTK, Gensim.
+Languages: Python, SQL, Bash, R.  
+AI/ML: LLMs, TensorFlow, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, NLTK, Gensim.  
 Data Analysis: Tableau, Power BI, Data Cleaning, Wrangling, Exploration, Visualization, Statistical Analysis, Hy-
-pothesis Testing.
-Data Engineering: PySpark, Databricks, ETL Pipelines, Data Warehousing.
+pothesis Testing.  
+Data Engineering: PySpark, Databricks, ETL Pipelines, Data Warehousing.  
 Tools: Azure (Data Factory, Synapse Analytics, Stream Analytics, Event Hubs), Docker, Git, Microsoft Office
-Suite, Jupyter Notebook, SQL IDEs (PostgreSQL, DBeaver), Visio.
+Suite, Jupyter Notebook, SQL IDEs (PostgreSQL, DBeaver), Visio.  
 Certifications: Microsoft Azure Data Engineer Associate (DP - 203), ChatGPT Prompt Engineering for Developers
-(DeepLearning.AI), Introduction to Generative AI (Google).
+(DeepLearning.AI), Introduction to Generative AI (Google).  
 
 
 📚 Academic Projects:  
