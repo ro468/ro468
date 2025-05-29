@@ -4,21 +4,16 @@ I'm a passionate Data Scientist and Data Analyst with a strong foundation in Dat
 
 🛠️ Tech Stack:  
 
-Languages: Python, SQL, Linux, R.
-AI/ML: TensorFlow, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, NLP, Model Evaluation, Feature Engineering.
-Data Analysis: Tableau, Power BI, Data Cleaning, Wrangling, Exploration, Visualization, Statistical Analysis.
+Languages: Python, SQL, Bash, R.
+AI/ML: LLMs, TensorFlow, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, NLTK, Gensim.
+Data Analysis: Tableau, Power BI, Data Cleaning, Wrangling, Exploration, Visualization, Statistical Analysis, Hy-
+pothesis Testing.
 Data Engineering: PySpark, Databricks, ETL Pipelines, Data Warehousing.
-Tools: AWS (S3, EC2, RDS), Docker, Git, Microsoft Office Suite, Jupyter Notebook, SQL IDEs (MySQL Workbench, DBeaver).
+Tools: Azure (Data Factory, Synapse Analytics, Stream Analytics, Event Hubs), Docker, Git, Microsoft Office
+Suite, Jupyter Notebook, SQL IDEs (PostgreSQL, DBeaver), Visio.
+Certifications: Microsoft Azure Data Engineer Associate (DP - 203), ChatGPT Prompt Engineering for Developers
+(DeepLearning.AI), Introduction to Generative AI (Google).
 
-🌟 Professional Experience Highlights:  
-
-Apple (AI/ML Data Analyst):  
-Led large-scale data collection for Siri, Dictation, and other Apple products, focusing on improving entity recognition and enhancing voice assistant features through high-quality data processes.
-Automated data reporting, reducing reporting time by 30% and improving the efficiency of data annotation workflows by 97%.  
-
-Amazon (Data Analyst):  
-Conducted customer sentiment analysis and data audits, improving customer satisfaction and reducing errors by 20%.  
-Utilized SQL and Excel for data modeling and streamlining operational processes, leading to a 15% improvement in overall efficiency.  
 
 📚 Academic Projects:  
 
