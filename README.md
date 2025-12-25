@@ -1,5 +1,5 @@
 👋 Hi, I'm Rohini!
-I'm a passionate Data Scientist and Data Analyst with a strong foundation in Data Analysis, AI/ML and Natural Language Processing (NLP). With over 6 years of experience at Apple and Amazon, I’ve worked on large-scale data collection, AI model optimization, and data analysis to drive impactful decisions. 
+Results-driven analytics professional with 7+ years of experience delivering insights, predictive modeling, and operational improvements across healthcare and tech. Experienced in dashboarding, KPI tracking, cohort analysis, A/B testing, ETL pipelines, and AI/ML-enabled solutions.
 
 
 🛠️ Tech Stack:  
@@ -10,7 +10,7 @@ Data Analysis: Tableau, Power BI, Data Cleaning, Wrangling, Exploration, Visuali
 pothesis Testing.  
 Data Engineering: PySpark, Databricks, ETL Pipelines, Data Warehousing.  
 Tools: Azure (Data Factory, Synapse Analytics, Stream Analytics, Event Hubs), Docker, Git, Microsoft Office
-Suite, Jupyter Notebook, SQL IDEs (PostgreSQL, DBeaver), Visio.  
+Suite, Jupyter Notebook, SQL IDEs (PostgreSQL, DBeaver), Visio, Amplitude, hex
 Certifications: Microsoft Azure Data Engineer Associate (DP - 203), ChatGPT Prompt Engineering for Developers
 (DeepLearning.AI), Introduction to Generative AI (Google).  
 
